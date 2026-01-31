@@ -99,6 +99,8 @@ https://github.com/asymptotic-index/vcp-space-radiator
 https://github.com/asymptotic-index/vcp-hungry-powder
 ### Current Best Solutions
 https://github.com/asymptotic-index/vcp-current-best-solutions
+### Fantasy Terraform Stack
+https://github.com/asymptotic-index/vpc-fantasy-terraform-stack
 
 Each project is self-contained and explores a single concept using a shared structure and analytical philosophy.
 
